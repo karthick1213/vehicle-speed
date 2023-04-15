@@ -1,0 +1,10 @@
+1. Activate Conda Environment using anaconda prompt
+conda activate <env_name>
+
+2. Opencv installation - pip install opencv-python
+
+3. Dlib insallation - pip install "<file_name>"
+
+4. Using this command move to the folder where you have the <speed_detect.py> file 
+
+5. In the terminal give this command "python speed_detect.py>
